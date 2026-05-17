@@ -9,4 +9,4 @@ Code repository for the master thesis: "The impact of response-guided algorithms
 ## Structure
 - `Replication/` - Code for replicating Swan et al. (2020)
 - `Extension/` - Code for the SCED extension
-- `Multiple-Baseline/` - Code for the multiple-baseline extension
+- `multiple baseline/` - Code for the multiple-baseline extension
