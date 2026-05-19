@@ -3,8 +3,8 @@
 Code for the master thesis: "The impact of response-guided algorithms on statistical inference in single-case experimental designs"
 
 ## Authors
-- Peihong Qin
 - Elouan Debels
+- Peihong Qin
 
 ## Structure
 - `Replication/` - Code for replicating Swan et al. (2020)
