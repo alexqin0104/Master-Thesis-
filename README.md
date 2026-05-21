@@ -7,6 +7,6 @@ Code for the master thesis: "The impact of response-guided algorithms on statist
 - Peihong Qin
 
 ## Structure
-- `Replication/` - Code for replicating Swan et al. (2020)
-- `Extension/` - Code for the SCED extension
-- `multiple baseline/` - Code for the multiple-baseline extension
+- `CommonSimulationCode/` - Contains all code for the common chapters of the Master Thesis
+- `PowerCode/` - Contains the code for the "Power" chapter
+- `multiple baseline/` - Contains the code for the "Multiple Baseline Design" chapter
