@@ -1,6 +1,6 @@
 # Master Thesis
 
-Code for the master thesis: "The impact of response-guided algorithms on statistical inference in single-case experimental designs"
+Code for the master thesis: "Response-Guided Single-Case Experiments: Prospects and Pitfalls"
 
 ## Authors
 - Elouan Debels
